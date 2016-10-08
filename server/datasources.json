@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "Blog": {
+    "host": "ds053186.mlab.com",
+    "port": 53186,
+    "url": "mongodb://root:rockstar@ds053186.mlab.com:53186/signzy",
+    "database": "signzy",
+    "password": "rockstar",
+    "name": "Blog",
+    "user": "root",
+    "connector": "mongodb"
+  }
+}
